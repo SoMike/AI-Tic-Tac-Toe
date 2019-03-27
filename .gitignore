@@ -1,0 +1,7 @@
+#Generic files to ignore
+*.DS_Store
+*.class
+.project
+
+#Folders to ignore
+.vscode/
